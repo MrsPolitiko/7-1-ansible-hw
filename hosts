@@ -53,7 +53,7 @@
 ## blue.example.com
 
 [server1]
-192.168.3.88 ansible_ssh_user=kseniya
+192.168.3.101 ansible_ssh_user=kseniya ansible_sudo_pass=zaqew
 
 [server2]
-192.168.3.89 ansible_ssh_user=kseniya
+192.168.3.102 ansible_ssh_user=kseniya ansible_sudo_pass=zaqew
